@@ -3,8 +3,7 @@
 * Departmanlara ait ofisler vardır.
 * Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
 * Her çalışan bir ofiste çalışır.
- ![UML DIAGRAM](https://drive.google.com/file/d/1RdpOiuHUSDe9j489VNGVr5atdS5gmnH0/view)
-
+ ![](https://bit.ly/3afICSq)
 
  # Ödev - Hayvanat Bahçesi
 
@@ -76,4 +75,5 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
 
 * Bir kişi uygun çağrı düğmesine (yukarı veya aşağı) basarak bir asansörü çağırır. Bir programlayıcı, aramanın başladığı kata gitmek için beş asansörden birini görevlendirir. Asansöre girdikten sonra, bir yolcu tipik olarak bir veya daha fazla hedef düğmesine basar. Asansör kattan kata hareket ederken, asansörün içindeki bir gösterge ışığı yolcuları asansörün konumu hakkında bilgilendirir. Bir asansörün bir kata varması, dış asansör kapısının üzerindeki gösterge lambasının yakılması ve kat zilinin çalmasıyla belirtilir. Bir asansör bir katta durduğunda, her iki kapı grubu da önceden belirlenmiş bir süre boyunca otomatik olarak açılarak yolcuların asansöre girip çıkmalarına izin verir.
 
-* Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gelen olayları zaman damgası ve günlüğe kaydetmek için bir "saat" kullanır. Simülatör tarafından yolcu oluşturmak ve her yolcu için kalkış ve varış katlarını belirlemek için rastgele bir sayı üreteci kullanılır. ![](https://bit.ly/3iFIhgq)
+* Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gelen olayları zaman damgası ve günlüğe kaydetmek için bir "saat" kullanır. Simülatör tarafından yolcu oluşturmak ve her yolcu için kalkış ve varış katlarını belirlemek için rastgele bir sayı üreteci kullanılır.
+ ![](https://bit.ly/3iFIhgq)
